@@ -118,6 +118,9 @@ color: #FFFFFF; */
 .lang img:not(:last-child) {
   margin-right: 10px;
 }
+.lang img:last-child{
+  display: none;
+}
 .conract_info,
 .whitepaper {
   display: flex;
